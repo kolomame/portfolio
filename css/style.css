@@ -87,9 +87,8 @@ header .heading {
   justify-content: center; /* 要素の横並び・中央寄せ */
 }
 
-.img {
-  background-image: url(img/no_image.jpg);
-  width: 230px;
+img {
+  width: 600px;
   height: 200px;
 }
 
